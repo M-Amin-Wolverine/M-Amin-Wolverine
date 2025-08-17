@@ -1,7 +1,7 @@
 # 👋 Welcome to **The Uncle Zeynoth's GitHub** 🚀
 
 ![Profile Banner](https://img.shields.io/badge/The%20Uncle%20Zeynoth-Open%20Source%20Enthusiast-blueviolet?style=for-the-badge&logo=github)
-![GIF Spark](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![GIF Spark](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZtOWIxYWwzdzU1M2E4d25hcnp2eWR5bjlxYTV5MjZxYnZnaWliMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 Hey! I'm **The Uncle Zeynoth** (*aka The Big Guy*), **24 years old**, a tech geek, Marvel fan, bookworm, and open-source enthusiast. I code, tinker, and build projects that make sparks fly! ⚡️
 
@@ -19,25 +19,60 @@ Hey! I'm **The Uncle Zeynoth** (*aka The Big Guy*), **24 years old**, a tech gee
 ---
 
 ## 💻 Skills & Tech Stack
-
+### 🔹 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)
+
+
+### 🔹 Web & Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🔹 DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+
+### 🔹 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🔹 Tools & IDEs
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+### 🔹 Operating Systems
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
@@ -84,79 +119,6 @@ Hey! I'm **The Uncle Zeynoth** (*aka The Big Guy*), **24 years old**, a tech gee
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=radical&hide_border=true)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=radical&hide_border=true)
 
-5. ![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=dark&hide_border=true)  
-6. ![Top Languages Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=dark&hide_border=true)  
-7. ![Streak Stats Dark](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=dark&hide_border=true)  
-8. **زبان‌های برتر**: زبان‌های برنامه‌نویسی پرکاربرد در پروژه‌های کاربر.  
-9. ![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=light&hide_border=true)  
-10. ![Top Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=pie&theme=light&hide_border=true)  
-11. ![Streak Stats Fire](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=fire&hide_border=true)  
-12. **تعهد به کدنویسی**: نمایش استریک‌های مداوم کدنویسی کاربر.  
-13. ![GitHub Stats Dracula](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=dracula&hide_border=true)  
-14. ![Top Languages Dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=dracula&hide_border=true)  
-15. ![Streak Stats Night](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=night&hide_border=true)  
-16. **تم‌های متنوع**: استفاده از تم‌های مختلف برای جذابیت بصری.  
-17. ![GitHub Stats Gruvbox](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=gruvbox&hide_border=true)  
-18. ![Top Languages Gruvbox](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=gruvbox&hide_border=true)  
-19. ![Streak Stats Ocean](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=ocean&hide_border=true)  
-20. **تحلیل پروژه‌ها**: نمایش توزیع زبان‌ها در ریپازیتوری‌ها.  
-21. ![GitHub Stats Solarized](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=solarized-dark&hide_border=true)  
-22. ![Top Languages Solarized](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=solarized-dark&hide_border=true)  
-23. ![Streak Stats Neon](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=neon&hide_border=true)  
-24. **فعالیت‌های اخیر**: نمایش آخرین مشارکت‌های کاربر در GitHub.  
-25. ![GitHub Stats Tokyo](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=tokyonight&hide_border=true)  
-26. ![Top Languages Tokyo](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=tokyonight&hide_border=true)  
-27. ![Streak Stats Highcontrast](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=highcontrast&hide_border=true)  
-28. **تم‌های پرکنتراست**: مناسب برای خوانایی بهتر.  
-29. ![GitHub Stats Monokai](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=monokai&hide_border=true)  
-30. ![Top Languages Monokai](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=monokai&hide_border=true)  
-31. ![Streak Stats Midnight](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=midnight-purple&hide_border=true)  
-32. **آمار ستاره‌ها**: نمایش تعداد ستاره‌های دریافت‌شده توسط ریپازیتوری‌ها.  
-33. ![GitHub Stats Vue](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=vue&hide_border=true)  
-34. ![Top Languages Vue](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=vue&hide_border=true)  
-35. ![Streak Stats Algolia](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=algolia&hide_border=true)  
-36. **مشارکت در پروژه‌های متن‌باز**: نمایش مشارکت‌های کاربر در پروژه‌های عمومی.  
-37. ![GitHub Stats Nord](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=nord&hide_border=true)  
-38. ![Top Languages Nord](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=nord&hide_border=true)  
-39. ![Streak Stats Transparent](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=transparent&hide_border=true)  
-40. **جمع‌بندی**: مجموعه‌ای از آمارها و فعالیت‌های کاربر M-Amin-Wolverine در GitHub.  
-41. ![GitHub Stats Merko](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– isoform=true&theme=merko&hide_border=true)  
-![Top Languages Merko](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=merko&hide_border=true)  
-![Streak Stats Github Dark](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=github-dark&hide_border=true)  
-![GitHub Stats Onedark](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=onedark&hide_border=true)  
-![Top Languages Onedark](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=onedark&hide_border=true)  
-![Streak Stats Synthwave](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=synthwave&hide_border=true)  
-![GitHub Stats Cobalt](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=cobalt&hide_border=true)  
-![Top Languages Cobalt](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=pie&theme=cobalt&hide_border=true)  
-![Streak Stats Blue](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=blue&hide_border=true)  
-![GitHub Stats Transparent](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=transparent&hide_border=true)  
-![Top Languages Transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=transparent&hide_border=true)  
-![Streak Stats Horizon](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=horizon&hide_border=true)  
-![GitHub Stats Aurora](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=aurora&hide_border=true)  
-![Top Languages Aurora](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=aurora&hide_border=true)  
-![Streak Stats React](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=react&hide_border=true)  
-![GitHub Stats Shadow](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=shadow&hide_border=true)  
-![Top Languages Shadow](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=shadow&hide_border=true)  
-![Streak Stats Citylights](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=citylights&hide_border=true)  
-![GitHub Stats Blue Green](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=blue-green&hide_border=true)  
-![Top Languages Blue Green](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=pie&theme=blue-green&hide_border=true)  
-![Streak Stats Shades](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=shades-of-purple&hide_border=true)  
-![GitHub Stats Github](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=github&hide_border=true)  
-![Top Languages Github](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=github&hide_border=true)  
-![Streak Stats Oceanic](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme= oceanic-next&hide_border=true)  
-![GitHub Stats One Light](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=one-light&hide_border=true)  
-![Top Languages One Light](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=one-light&hide_border=true)  
-![Streak Stats Solarized Light](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=solarized-light&hide_border=true)  
-![GitHub Stats Material](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=material&hide_border=true)  
-![Top Languages Material](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=material&hide_border=true)  
-![Streak Stats Dark Blue](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=dark-blue&hide_border=true)    
-![GitHub Stats Code](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=code&hide_border=true)  
-![Top Languages Code](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=pie&theme=code&hide_border=true)  
-![Streak Stats Night Owl](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=night-owl&hide_border=true)  
-![GitHub Stats Graywhite](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=graywhite&hide_border=true)  
-![Top Languages Graywhite](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Wolverine&layout=compact&theme=graywhite&hide_border=true)  
-![Streak Stats Chartreuse](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Wolverine&theme=chartreuse-dark&hide_border=true)  
-![GitHub Stats Radical Pie](https://github-readme-stats.vercel.app/api?username=M-Amin-Wolverine&show_icons=true&theme=radical&hide_border=true&layout=pie)  
 ---
 
 *“The best way to predict the future is to create it.”*  
