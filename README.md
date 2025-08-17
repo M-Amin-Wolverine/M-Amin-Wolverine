@@ -1,8 +1,12 @@
 # 👋 Welcome to **The Uncle Zeynoth's GitHub** 🚀
 
 ![Profile Banner](https://img.shields.io/badge/The%20Uncle%20Zeynoth-Open%20Source%20Enthusiast-blueviolet?style=for-the-badge&logo=github)
+
+---
+
 ![GIF Spark](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZtOWIxYWwzdzU1M2E4d25hcnp2eWR5bjlxYTV5MjZxYnZnaWliMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
+---
 Hey! I'm **The Uncle Zeynoth** (*aka The Big Guy*), **24 years old**, a tech geek, Marvel fan, bookworm, and open-source enthusiast. I code, tinker, and build projects that make sparks fly! ⚡️
 
 ---
